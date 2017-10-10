@@ -275,9 +275,14 @@ def max_array_flatten(arr): # 不明白什么意思
 
 def main():
 
+    # You can not bite off more than you can chew
+
     print('enter')
+
+
     A=[[1, 2, 3],[4, 5, 6],[7, 8, 9]]
     matrix_transpose(A)
+
     print('leave')
 
 if __name__ == "__main__": main()
